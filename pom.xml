@@ -18,6 +18,9 @@
         <module>template</module>
         <module>facade</module>
         <module>builder</module>
+        <module>observer</module>
+        <module>command</module>
+        <module>chain-of-responsibility</module>
     </modules>
 
 
