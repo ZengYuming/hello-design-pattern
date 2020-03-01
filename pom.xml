@@ -22,6 +22,9 @@
         <module>command</module>
         <module>chain-of-responsibility</module>
         <module>mediator</module>
+        <module>flyweight</module>
+        <module>interpreter</module>
+        <module>calculator</module>
     </modules>
 
 
